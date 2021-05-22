@@ -1,0 +1,266 @@
+body {
+  min-width: 320px;
+  max-width: 750px;
+  margin: 0 auto;
+  background: #F4F4F4;
+}
+@media screen and (min-width: 750px) {
+  html {
+    font-size: 37.5px !important;
+  }
+}
+#container_1 {
+  background: #ffffff url('/Evaluation_first/ps/shachen.jpg') no-repeat top;
+  background-size: cover;
+  height: 18.8rem;
+  margin-top: 0;
+}
+#container_1 .header {
+  height: 2.613333rem;
+  line-height: 2.613333rem;
+  font-size: 0.64rem;
+  color: #fff;
+}
+#container_1 .header .h {
+  text-align: center;
+  margin-top: 0.64rem;
+  margin-bottom: 1.36rem;
+}
+#container_1 .header .h p {
+  margin-top: 0;
+}
+#container_1 .header .h img {
+  width: 0.453333rem;
+  height: 0.56rem;
+}
+#container_1 .header #con {
+  background-color: #ffffff;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+#container_1 .kqzl {
+  font-size: 0.426667rem;
+  height: 2.32rem;
+  color: #fff;
+}
+#container_1 .kqzl .bxy {
+  text-align: center;
+  margin-left: 0.266667rem;
+  box-sizing: border-box;
+  width: 1.493333rem;
+  height: 1.786667rem;
+  background-color: #F0CC35;
+  border-radius: 0.266667rem;
+}
+#container_1 .wd {
+  height: 4.373333rem;
+  text-align: center;
+  color: #fff;
+}
+#container_1 .wd #wd_1 {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  padding-top: 0;
+  font-size: 1.84rem;
+}
+#container_1 .wd .tq {
+  display: block;
+  margin-bottom: 0;
+  margin-top: 0.746667rem;
+  margin-bottom: 0.453333rem;
+  font-size: 0.906667rem;
+}
+#container_1 .wd #sd {
+  font-size: 0.533333rem;
+}
+#container_1 .wd #feng {
+  font-size: 0.533333rem;
+}
+#container_1 .wbsl {
+  text-align: center;
+  font-size: 0.613333rem;
+  color: #fff;
+}
+#container_1 .wbsl p {
+  display: block;
+  margin-top: 2.213333rem;
+}
+#yc {
+  background-color: #ffffff;
+  display: flex;
+}
+#yc .item {
+  margin-left: 0.773333rem;
+  margin-right: 0.8rem;
+  width: 50%;
+  font-size: 0.533333rem;
+  color: #434343;
+  border-right: 1px solid #F0F0F0;
+}
+#yc .item p {
+  display: flex;
+  justify-content: space-between;
+}
+#yc .item img {
+  width: 0.853333rem;
+  height: 0.693333rem;
+}
+#ct-weather {
+  margin-top: 0.48rem;
+  margin-bottom: 0.48rem;
+  background-color: #ffffff;
+  height: 5.466667rem;
+  width: 100vw;
+  padding: 0;
+  overflow: hidden;
+}
+#ct-weather ol {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  padding-top: 1.2rem;
+  padding-bottom: 1.066667rem;
+}
+#ct-weather ol li {
+  display: block;
+  display: flex;
+  margin-left: 0.48rem;
+  margin-right: 0.48rem;
+  flex-direction: column;
+  align-items: center;
+}
+#ct-weather .txt-time {
+  white-space: nowrap;
+  font-size: 0.346667rem;
+  color: #9A9A9A;
+}
+#ct-weather .txt-degree {
+  font-size: 0.426667rem;
+  color: #939393;
+}
+#ct-weather img {
+  width: 0.933333rem;
+  height: 0.746667rem;
+}
+.box-content {
+  background-color: #ffffff;
+}
+.box-content ol {
+  font-size: 0.4rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  padding-top: 1.2rem;
+  padding-bottom: 1.066667rem;
+}
+.box-content ol li {
+  display: block;
+  display: flex;
+  margin-left: 0.2rem;
+  margin-right: 0.2rem;
+  flex-direction: column;
+  align-items: center;
+}
+.box-content ol li .wind {
+  margin: 0;
+}
+.box-content ol li .date {
+  font-size: 0.4rem;
+}
+.box-content ol img {
+  width: 0.8rem;
+  height: 0.48rem;
+}
+#chartjs {
+  background-color: #ffffff;
+  width: 20rem;
+  height: 3.626667rem;
+}
+.ssd {
+  background-color: #ffffff;
+  font-size: 0.533333rem;
+  margin-bottom: 0.8rem;
+}
+.ssd .ls-living {
+  background-color: #ffffff;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.ssd .ls-living li {
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #ffffff;
+}
+.ssd .ls-living li .title {
+  font-size: 0.4rem;
+  margin: 0;
+}
+#ct-footer {
+  background-color: #ffffff;
+  font-size: 0.533333rem;
+  text-align: center;
+}
+.container {
+  margin-top: 0.533333rem;
+}
+.search {
+  margin: 0;
+  padding: 0;
+  background-color: #FFFFFF;
+}
+.search .search-top {
+  padding: 0.186667rem 0;
+  font-size: 0.586667rem;
+  display: flex;
+  justify-content: space-between;
+}
+.search .search-top #icon-search {
+  background: #ffffff url('/Evaluation_first/ps/搜索.png') no-repeat top;
+}
+.search .search-top #top-input {
+  margin: 0 1.6rem 0 0.346667rem;
+  border-radius: 10px;
+  width: 14.2rem;
+  height: 0.8rem;
+  padding: 0.133333rem 0 0.133333rem 0.853333rem;
+}
+.search .search-top .cancel {
+  width: 1.6rem;
+  height: 0.8rem;
+  padding-right: 0.746667rem;
+  padding-top: 0.266667rem;
+  padding-left: 0.666667rem;
+  white-space: nowrap;
+  text-align: center;
+}
+.search .his-cities {
+  font-size: 0.533333rem;
+}
+.search .his-cities ul {
+  margin: 0;
+  margin-left: 0.266667rem;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.search .his-cities ul li {
+  width: 31.5%;
+  margin-top: 0.533333rem;
+  margin-right: 0.266667rem;
+  display: flex;
+  border-radius: 0.266667rem;
+  flex-direction: column;
+  align-items: center;
+  background-color: #F2F2F2;
+}
